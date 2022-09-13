@@ -1,4 +1,4 @@
-Navigate into the server directory in the root folder
+Navigate into the server directory in the root folder in your terminal/cmd
 
 Start the server by running the command:
 
